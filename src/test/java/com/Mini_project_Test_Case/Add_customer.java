@@ -15,7 +15,7 @@ import com.Mini_Project.Page_Object.Login_Page;
 public class Add_customer extends Base_Class{
 
 	@Test
-	public void details() throws InterruptedException {
+	public void Adding_Customer_() throws InterruptedException {
 
 
 		Login_Page lg=new Login_Page(driver);

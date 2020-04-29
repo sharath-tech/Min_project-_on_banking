@@ -6,7 +6,9 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
-public class Read_Config {
+import org.testng.TestListenerAdapter;
+
+public class Read_Config  {
 
 	Properties pro;
 
@@ -50,6 +52,10 @@ public class Read_Config {
 
 		String ID=pro.getProperty("id");
 		return ID;
+	}
+	public String getCustomer_id() {
+		String c_id=pro.getProperty("CustomerID");
+		return c_id;
 	}
 
 }

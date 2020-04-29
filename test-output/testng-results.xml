@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="53131" started-at="2020-04-27T11:11:10 IST" finished-at="2020-04-27T11:12:04 IST">
+  <suite name="Suite" duration-ms="68592" started-at="2020-04-28T22:29:13 IST" finished-at="2020-04-28T22:30:21 IST">
     <groups>
     </groups>
-    <test name="Test_Chrome" duration-ms="53131" started-at="2020-04-27T11:11:10 IST" finished-at="2020-04-27T11:12:04 IST">
-      <class name="com.Mini_project_Test_Case.Add_customer">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.Mini_project_Test_Case.Add_customer@27a8c74e]" name="setUp" is-config="true" duration-ms="18776" started-at="2020-04-27T11:11:38 IST" finished-at="2020-04-27T11:11:56 IST">
+    <test name="Test" duration-ms="68592" started-at="2020-04-28T22:29:13 IST" finished-at="2020-04-28T22:30:21 IST">
+      <class name="com.Mini_project_Test_Case.Edit_customer_test">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.Mini_project_Test_Case.Edit_customer_test@3712b94]" name="setUp" is-config="true" duration-ms="36024" started-at="2020-04-28T22:29:13 IST" finished-at="2020-04-28T22:29:49 IST">
           <params>
             <param index="0">
               <value>
@@ -18,36 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="details()[pri:0, instance:com.Mini_project_Test_Case.Add_customer@27a8c74e]" name="details" duration-ms="6528" started-at="2020-04-27T11:11:56 IST" finished-at="2020-04-27T11:12:03 IST">
+        <test-method status="PASS" signature="edit()[pri:0, instance:com.Mini_project_Test_Case.Edit_customer_test@3712b94]" name="edit" duration-ms="32392" started-at="2020-04-28T22:29:49 IST" finished-at="2020-04-28T22:30:21 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- details -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Mini_project_Test_Case.Add_customer@27a8c74e]" name="tearDown" is-config="true" duration-ms="718" started-at="2020-04-27T11:12:03 IST" finished-at="2020-04-27T11:12:04 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.Mini_project_Test_Case.Add_customer -->
-      <class name="com.Mini_project_Test_Case.TC_LoginTest_01">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.Mini_project_Test_Case.TC_LoginTest_01@33f88ab]" name="setUp" is-config="true" duration-ms="21408" started-at="2020-04-27T11:11:11 IST" finished-at="2020-04-27T11:11:32 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="login_Test()[pri:0, instance:com.Mini_project_Test_Case.TC_LoginTest_01@33f88ab]" name="login_Test" duration-ms="4772" started-at="2020-04-27T11:11:32 IST" finished-at="2020-04-27T11:11:37 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- login_Test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Mini_project_Test_Case.TC_LoginTest_01@33f88ab]" name="tearDown" is-config="true" duration-ms="716" started-at="2020-04-27T11:11:37 IST" finished-at="2020-04-27T11:11:38 IST">
+        </test-method> <!-- edit -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Mini_project_Test_Case.Edit_customer_test@3712b94]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-04-28T22:30:21 IST" finished-at="2020-04-28T22:30:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.Mini_project_Test_Case.TC_LoginTest_01 -->
-    </test> <!-- Test_Chrome -->
+      </class> <!-- com.Mini_project_Test_Case.Edit_customer_test -->
+    </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

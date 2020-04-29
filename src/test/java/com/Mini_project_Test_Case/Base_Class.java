@@ -33,9 +33,11 @@ public class Base_Class {
 	Read_Config  read_config=new Read_Config();
 
 	WebDriver driver;
+	String C_id=read_config.getCustomer_id();
 	String id=read_config.getApplication_id();
 	String password=read_config.getApplication_password();
 	String url=read_config.getApplication_URL();
+	        
 
 	Logger logger;
 
@@ -67,7 +69,7 @@ public class Base_Class {
 	@AfterClass
 	public void tearDown() {
 
-		driver.quit();;
+	
 	}
 	
 	public void capture_Screen(WebDriver driver,String tname) throws IOException {
