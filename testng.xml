@@ -9,6 +9,8 @@
 		<classes>
 			<class name="com.Mini_project_Test_Case.TC_LoginTest_01" />
 			<class name="com.Mini_project_Test_Case.Add_customer"/>
+			<class name="com.Mini_project_Test_Case.Edit_customer_test"/>
+			<class name="com.Mini_project_Test_Case.Delete_customer_test"/>
 		</classes>
 	</test>
 </suite> 

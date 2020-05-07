@@ -68,7 +68,8 @@ public class Base_Class {
 
 	@AfterClass
 	public void tearDown() {
-
+          
+		driver.quit();
 	
 	}
 	
@@ -77,7 +78,7 @@ public class Base_Class {
 		TakesScreenshot pic=(TakesScreenshot)driver;
       File PicFile= pic.getScreenshotAs(OutputType.FILE);
       
-      File target=new File("G:\\seleniumWorkspace\\Mini_Project_Selenium\\ScreenShot"+tname+".png"+timestamp);
+      File target=new File("G:\\seleniumWorkspace\\Mini_Project_Selenium\\ScreenShot\\"+tname+".jpg"+timestamp);
       FileUtils.copyFile(PicFile, target);
       System.out.println("ScreenShot Taken");
 		

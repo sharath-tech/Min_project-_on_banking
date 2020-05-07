@@ -27,7 +27,7 @@ public class Reporting extends TestListenerAdapter {
 
 		String timestamp=new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());//Time Stamp
 		String repName="Test-Report-"+timestamp+".html";
-		html_report=new ExtentHtmlReporter("G:\\seleniumWorkspace\\Mini_Project_Selenium\\OutPut"+repName);//location of report
+		html_report=new ExtentHtmlReporter("G:\\seleniumWorkspace\\Mini_Project_Selenium\\OutPut\\"+repName);//location of report
 		extent=new ExtentReports();
 		extent.attachReporter(html_report);
 		html_report.config().setDocumentTitle("Automation Report");//title of report 
@@ -57,7 +57,7 @@ public class Reporting extends TestListenerAdapter {
 		logger.log(Status.FAIL, MarkupHelper.createLabel(tr.getName(),ExtentColor.RED));// send the passed information
 		logger.log(Status.FAIL, "The test got failed is"+tr.getThrowable());
 		
-		String file_Output="G:\\seleniumWorkspace\\Mini_Project_Selenium\\ScreenShot"+tr.getName()+".png";
+		String file_Output="G:\\seleniumWorkspace\\Mini_Project_Selenium\\ScreenShot\\"+tr.getName()+".jpg";
 		
 		File f=new File(file_Output);
 		

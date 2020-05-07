@@ -225,3 +225,223 @@
 [INFO ] 2020-04-28 22:30:01.714 [main] Base_Class - Clicking on submit
 [INFO ] 2020-04-28 22:30:13.991 [main] Base_Class - Editing  the City
 [INFO ] 2020-04-28 22:30:14.261 [main] Base_Class - Editing  the State
+[INFO ] 2020-05-07 10:20:06.956 [main] Base_Class - typing the id
+[INFO ] 2020-05-07 10:20:08.030 [main] Base_Class - typing the password
+[INFO ] 2020-05-07 10:20:08.202 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:20:09.654 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:20:11.575 [main] Base_Class - typing the customer id
+[INFO ] 2020-05-07 10:20:12.368 [main] Base_Class - Clicking on submit
+[INFO ] 2020-05-07 10:20:13.581 [main] Base_Class - Editing  the City
+[INFO ] 2020-05-07 10:20:14.775 [main] Base_Class - Editing  the State
+[INFO ] 2020-05-07 10:26:13.696 [main] Base_Class - URL Loading
+[INFO ] 2020-05-07 10:26:18.868 [main] Base_Class - Entered ID
+[INFO ] 2020-05-07 10:26:20.632 [main] Base_Class - Entered Password
+[INFO ] 2020-05-07 10:26:21.228 [main] Base_Class - button is clicked
+[INFO ] 2020-05-07 10:26:58.175 [main] Base_Class - Loading user ID
+[INFO ] 2020-05-07 10:27:00.976 [main] Base_Class - Loading user password
+[INFO ] 2020-05-07 10:27:01.149 [main] Base_Class - Clicking on Login button
+[INFO ] 2020-05-07 10:27:04.805 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 10:27:07.437 [main] Base_Class - Typing the Name
+[INFO ] 2020-05-07 10:27:07.598 [main] Base_Class - Selecting the Gender
+[INFO ] 2020-05-07 10:27:07.674 [main] Base_Class - Typing the DOB
+[INFO ] 2020-05-07 10:27:07.877 [main] Base_Class - Typing the Address
+[INFO ] 2020-05-07 10:27:08.026 [main] Base_Class - Typing the City
+[INFO ] 2020-05-07 10:27:08.170 [main] Base_Class - Typing the  State
+[INFO ] 2020-05-07 10:27:08.300 [main] Base_Class - Typing the PIN no
+[INFO ] 2020-05-07 10:27:08.402 [main] Base_Class - Typing the Phone no
+[INFO ] 2020-05-07 10:27:08.468 [main] Base_Class - Typing the Email
+[INFO ] 2020-05-07 10:27:10.371 [main] Base_Class - Typing the name
+[INFO ] 2020-05-07 10:27:10.661 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 10:27:46.492 [main] Base_Class - typing the id
+[INFO ] 2020-05-07 10:27:47.099 [main] Base_Class - typing the password
+[INFO ] 2020-05-07 10:27:47.247 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:27:49.055 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:27:50.537 [main] Base_Class - typing the customer id
+[INFO ] 2020-05-07 10:27:51.776 [main] Base_Class - Clicking on submit
+[INFO ] 2020-05-07 10:27:53.037 [main] Base_Class - Editing  the City
+[INFO ] 2020-05-07 10:27:54.504 [main] Base_Class - Editing  the State
+[INFO ] 2020-05-07 10:35:59.642 [main] Base_Class - URL Loading
+[INFO ] 2020-05-07 10:36:00.223 [main] Base_Class - Entered ID
+[INFO ] 2020-05-07 10:36:01.152 [main] Base_Class - Entered Password
+[INFO ] 2020-05-07 10:36:01.329 [main] Base_Class - button is clicked
+[INFO ] 2020-05-07 10:36:22.856 [main] Base_Class - Loading user ID
+[INFO ] 2020-05-07 10:36:24.353 [main] Base_Class - Loading user password
+[INFO ] 2020-05-07 10:36:24.501 [main] Base_Class - Clicking on Login button
+[INFO ] 2020-05-07 10:36:26.530 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 10:36:29.605 [main] Base_Class - Typing the Name
+[INFO ] 2020-05-07 10:36:30.269 [main] Base_Class - Selecting the Gender
+[INFO ] 2020-05-07 10:36:30.370 [main] Base_Class - Typing the DOB
+[INFO ] 2020-05-07 10:36:30.666 [main] Base_Class - Typing the Address
+[INFO ] 2020-05-07 10:36:30.904 [main] Base_Class - Typing the City
+[INFO ] 2020-05-07 10:36:31.168 [main] Base_Class - Typing the  State
+[INFO ] 2020-05-07 10:36:31.313 [main] Base_Class - Typing the PIN no
+[INFO ] 2020-05-07 10:36:31.415 [main] Base_Class - Typing the Phone no
+[INFO ] 2020-05-07 10:36:31.486 [main] Base_Class - Typing the Email
+[INFO ] 2020-05-07 10:36:31.702 [main] Base_Class - Typing the name
+[INFO ] 2020-05-07 10:36:31.821 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 10:36:54.177 [main] Base_Class - typing the id
+[INFO ] 2020-05-07 10:36:56.168 [main] Base_Class - typing the password
+[INFO ] 2020-05-07 10:36:56.394 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:36:58.406 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:37:00.056 [main] Base_Class - typing the customer id
+[INFO ] 2020-05-07 10:37:00.809 [main] Base_Class - Clicking on submit
+[INFO ] 2020-05-07 10:37:02.218 [main] Base_Class - Editing  the City
+[INFO ] 2020-05-07 10:37:02.822 [main] Base_Class - Editing  the State
+[INFO ] 2020-05-07 10:39:14.555 [main] Base_Class - URL Loading
+[INFO ] 2020-05-07 10:39:14.737 [main] Base_Class - Entered ID
+[INFO ] 2020-05-07 10:39:14.994 [main] Base_Class - Entered Password
+[INFO ] 2020-05-07 10:39:15.184 [main] Base_Class - button is clicked
+[INFO ] 2020-05-07 10:39:38.702 [main] Base_Class - Loading user ID
+[INFO ] 2020-05-07 10:39:39.586 [main] Base_Class - Loading user password
+[INFO ] 2020-05-07 10:39:39.708 [main] Base_Class - Clicking on Login button
+[INFO ] 2020-05-07 10:39:42.951 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 10:39:44.931 [main] Base_Class - Typing the Name
+[INFO ] 2020-05-07 10:39:45.050 [main] Base_Class - Selecting the Gender
+[INFO ] 2020-05-07 10:39:45.124 [main] Base_Class - Typing the DOB
+[INFO ] 2020-05-07 10:39:45.338 [main] Base_Class - Typing the Address
+[INFO ] 2020-05-07 10:39:45.464 [main] Base_Class - Typing the City
+[INFO ] 2020-05-07 10:39:45.639 [main] Base_Class - Typing the  State
+[INFO ] 2020-05-07 10:39:45.753 [main] Base_Class - Typing the PIN no
+[INFO ] 2020-05-07 10:39:45.857 [main] Base_Class - Typing the Phone no
+[INFO ] 2020-05-07 10:39:45.953 [main] Base_Class - Typing the Email
+[INFO ] 2020-05-07 10:39:46.249 [main] Base_Class - Typing the name
+[INFO ] 2020-05-07 10:39:46.354 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 10:40:07.204 [main] Base_Class - typing the id
+[INFO ] 2020-05-07 10:40:07.452 [main] Base_Class - typing the password
+[INFO ] 2020-05-07 10:40:07.645 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:40:09.101 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:40:10.938 [main] Base_Class - typing the customer id
+[INFO ] 2020-05-07 10:40:11.322 [main] Base_Class - Clicking on submit
+[INFO ] 2020-05-07 10:40:12.646 [main] Base_Class - Editing  the City
+[INFO ] 2020-05-07 10:40:13.867 [main] Base_Class - Editing  the State
+[INFO ] 2020-05-07 10:47:55.055 [main] Base_Class - URL Loading
+[INFO ] 2020-05-07 10:47:55.268 [main] Base_Class - Entered ID
+[INFO ] 2020-05-07 10:47:56.007 [main] Base_Class - Entered Password
+[INFO ] 2020-05-07 10:47:56.256 [main] Base_Class - button is clicked
+[INFO ] 2020-05-07 10:48:18.480 [main] Base_Class - Loading user ID
+[INFO ] 2020-05-07 10:48:18.872 [main] Base_Class - Loading user password
+[INFO ] 2020-05-07 10:48:19.117 [main] Base_Class - Clicking on Login button
+[INFO ] 2020-05-07 10:48:20.537 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 10:48:22.390 [main] Base_Class - Typing the Name
+[INFO ] 2020-05-07 10:48:22.683 [main] Base_Class - Selecting the Gender
+[INFO ] 2020-05-07 10:48:22.770 [main] Base_Class - Typing the DOB
+[INFO ] 2020-05-07 10:48:23.066 [main] Base_Class - Typing the Address
+[INFO ] 2020-05-07 10:48:23.178 [main] Base_Class - Typing the City
+[INFO ] 2020-05-07 10:48:23.392 [main] Base_Class - Typing the  State
+[INFO ] 2020-05-07 10:48:23.522 [main] Base_Class - Typing the PIN no
+[INFO ] 2020-05-07 10:48:23.631 [main] Base_Class - Typing the Phone no
+[INFO ] 2020-05-07 10:48:23.733 [main] Base_Class - Typing the Email
+[INFO ] 2020-05-07 10:48:24.025 [main] Base_Class - Typing the name
+[INFO ] 2020-05-07 10:48:24.169 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 10:48:45.018 [main] Base_Class - typing the id
+[INFO ] 2020-05-07 10:48:45.258 [main] Base_Class - typing the password
+[INFO ] 2020-05-07 10:48:45.577 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:48:48.730 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:48:50.043 [main] Base_Class - typing the customer id
+[INFO ] 2020-05-07 10:48:51.050 [main] Base_Class - Clicking on submit
+[INFO ] 2020-05-07 10:48:51.847 [main] Base_Class - Editing  the City
+[INFO ] 2020-05-07 10:48:52.588 [main] Base_Class - Editing  the State
+[INFO ] 2020-05-07 10:50:26.370 [main] Base_Class - URL Loading
+[INFO ] 2020-05-07 10:50:26.628 [main] Base_Class - Entered ID
+[INFO ] 2020-05-07 10:50:27.329 [main] Base_Class - Entered Password
+[INFO ] 2020-05-07 10:50:27.634 [main] Base_Class - button is clicked
+[INFO ] 2020-05-07 10:50:49.596 [main] Base_Class - Loading user ID
+[INFO ] 2020-05-07 10:50:50.047 [main] Base_Class - Loading user password
+[INFO ] 2020-05-07 10:50:52.737 [main] Base_Class - Clicking on Login button
+[INFO ] 2020-05-07 10:50:54.729 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 10:50:56.585 [main] Base_Class - Typing the Name
+[INFO ] 2020-05-07 10:50:56.984 [main] Base_Class - Selecting the Gender
+[INFO ] 2020-05-07 10:50:57.078 [main] Base_Class - Typing the DOB
+[INFO ] 2020-05-07 10:50:57.453 [main] Base_Class - Typing the Address
+[INFO ] 2020-05-07 10:50:57.625 [main] Base_Class - Typing the City
+[INFO ] 2020-05-07 10:50:57.865 [main] Base_Class - Typing the  State
+[INFO ] 2020-05-07 10:50:58.061 [main] Base_Class - Typing the PIN no
+[INFO ] 2020-05-07 10:50:58.174 [main] Base_Class - Typing the Phone no
+[INFO ] 2020-05-07 10:50:58.250 [main] Base_Class - Typing the Email
+[INFO ] 2020-05-07 10:50:58.480 [main] Base_Class - Typing the name
+[INFO ] 2020-05-07 10:50:58.602 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 10:51:24.070 [main] Base_Class - typing the id
+[INFO ] 2020-05-07 10:51:29.093 [main] Base_Class - typing the password
+[INFO ] 2020-05-07 10:51:29.344 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:51:31.076 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 10:51:33.590 [main] Base_Class - typing the customer id
+[INFO ] 2020-05-07 10:51:34.112 [main] Base_Class - Clicking on submit
+[INFO ] 2020-05-07 10:51:34.920 [main] Base_Class - Editing  the City
+[INFO ] 2020-05-07 10:51:35.629 [main] Base_Class - Editing  the State
+[INFO ] 2020-05-07 11:39:45.245 [main] Base_Class - driver is loading the url
+[INFO ] 2020-05-07 11:39:50.499 [main] Base_Class - clicking on delete customer link
+[INFO ] 2020-05-07 11:39:53.591 [main] Base_Class - Entering on delete customer ID
+[INFO ] 2020-05-07 11:39:54.077 [main] Base_Class - clicking on Submit button
+[INFO ] 2020-05-07 11:39:54.232 [main] Base_Class - handling the alert
+[INFO ] 2020-05-07 11:42:31.410 [main] Base_Class - Entered ID
+[INFO ] 2020-05-07 11:42:34.631 [main] Base_Class - Entered Password
+[INFO ] 2020-05-07 11:42:34.775 [main] Base_Class - button is clicked
+[INFO ] 2020-05-07 11:42:38.656 [main] Base_Class - clicking on delete customer link
+[INFO ] 2020-05-07 11:42:40.947 [main] Base_Class - Entering on delete customer ID
+[INFO ] 2020-05-07 11:42:41.093 [main] Base_Class - clicking on Submit button
+[INFO ] 2020-05-07 11:42:41.202 [main] Base_Class - handling the alert
+[INFO ] 2020-05-07 11:45:08.682 [main] Base_Class - Entered ID
+[INFO ] 2020-05-07 11:45:11.360 [main] Base_Class - Entered Password
+[INFO ] 2020-05-07 11:45:11.491 [main] Base_Class - button is clicked
+[INFO ] 2020-05-07 11:45:16.093 [main] Base_Class - clicking on delete customer link
+[INFO ] 2020-05-07 11:45:19.058 [main] Base_Class - Entering on delete customer ID
+[INFO ] 2020-05-07 11:45:19.236 [main] Base_Class - clicking on Submit button
+[INFO ] 2020-05-07 11:45:19.417 [main] Base_Class - handling the alert
+[INFO ] 2020-05-07 12:11:58.720 [main] Base_Class - URL Loading
+[INFO ] 2020-05-07 12:12:01.401 [main] Base_Class - Entered ID
+[INFO ] 2020-05-07 12:12:07.073 [main] Base_Class - Entered Password
+[INFO ] 2020-05-07 12:12:07.228 [main] Base_Class - button is clicked
+[INFO ] 2020-05-07 12:12:43.390 [main] Base_Class - Loading user ID
+[INFO ] 2020-05-07 12:12:43.787 [main] Base_Class - Loading user password
+[INFO ] 2020-05-07 12:12:43.952 [main] Base_Class - Clicking on Login button
+[INFO ] 2020-05-07 12:12:47.100 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 12:12:48.145 [main] Base_Class - Typing the Name
+[INFO ] 2020-05-07 12:12:48.297 [main] Base_Class - Selecting the Gender
+[INFO ] 2020-05-07 12:12:48.365 [main] Base_Class - Typing the DOB
+[INFO ] 2020-05-07 12:12:48.543 [main] Base_Class - Typing the Address
+[INFO ] 2020-05-07 12:12:48.670 [main] Base_Class - Typing the City
+[INFO ] 2020-05-07 12:12:48.836 [main] Base_Class - Typing the  State
+[INFO ] 2020-05-07 12:12:48.950 [main] Base_Class - Typing the PIN no
+[INFO ] 2020-05-07 12:12:49.053 [main] Base_Class - Typing the Phone no
+[INFO ] 2020-05-07 12:12:49.129 [main] Base_Class - Typing the Email
+[INFO ] 2020-05-07 12:12:49.482 [main] Base_Class - Typing the name
+[INFO ] 2020-05-07 12:12:49.594 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 12:13:12.559 [main] Base_Class - typing the id
+[INFO ] 2020-05-07 12:13:12.712 [main] Base_Class - typing the password
+[INFO ] 2020-05-07 12:13:12.858 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 12:13:14.338 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 12:13:16.296 [main] Base_Class - typing the customer id
+[INFO ] 2020-05-07 12:13:16.806 [main] Base_Class - Clicking on submit
+[INFO ] 2020-05-07 12:13:17.624 [main] Base_Class - Editing  the City
+[INFO ] 2020-05-07 12:13:18.394 [main] Base_Class - Editing  the State
+[INFO ] 2020-05-07 12:13:56.238 [main] Base_Class - Entered ID
+[INFO ] 2020-05-07 12:13:56.807 [main] Base_Class - Entered Password
+[INFO ] 2020-05-07 12:13:56.937 [main] Base_Class - button is clicked
+[INFO ] 2020-05-07 12:14:00.191 [main] Base_Class - clicking on delete customer link
+[INFO ] 2020-05-07 12:14:02.295 [main] Base_Class - Entering on delete customer ID
+[INFO ] 2020-05-07 12:14:02.420 [main] Base_Class - clicking on Submit button
+[INFO ] 2020-05-07 12:14:02.583 [main] Base_Class - handling the alert
+[INFO ] 2020-05-07 12:25:01.341 [main] Base_Class - URL Loading
+[INFO ] 2020-05-07 12:25:06.638 [main] Base_Class - Entered ID
+[INFO ] 2020-05-07 12:25:16.269 [main] Base_Class - Entered Password
+[INFO ] 2020-05-07 12:25:16.443 [main] Base_Class - button is clicked
+[INFO ] 2020-05-07 12:25:48.322 [main] Base_Class - Loading user ID
+[INFO ] 2020-05-07 12:25:48.548 [main] Base_Class - Loading user password
+[INFO ] 2020-05-07 12:25:48.976 [main] Base_Class - Clicking on Login button
+[INFO ] 2020-05-07 12:25:52.603 [main] Base_Class - clicking on ADD Customer
+[INFO ] 2020-05-07 12:25:53.059 [main] Base_Class - Typing the Name
+[INFO ] 2020-05-07 12:26:35.014 [main] Base_Class - typing the id
+[INFO ] 2020-05-07 12:26:35.239 [main] Base_Class - typing the password
+[INFO ] 2020-05-07 12:26:35.466 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 12:26:38.821 [main] Base_Class - Clicking on login
+[INFO ] 2020-05-07 12:26:41.273 [main] Base_Class - typing the customer id
+[INFO ] 2020-05-07 12:26:41.409 [main] Base_Class - Clicking on submit
+[INFO ] 2020-05-07 12:26:44.171 [main] Base_Class - Editing  the City
+[INFO ] 2020-05-07 12:26:44.342 [main] Base_Class - Editing  the State
+[INFO ] 2020-05-07 12:27:14.164 [main] Base_Class - Entered ID
+[INFO ] 2020-05-07 12:27:15.134 [main] Base_Class - Entered Password
+[INFO ] 2020-05-07 12:27:15.264 [main] Base_Class - button is clicked
+[INFO ] 2020-05-07 12:27:18.694 [main] Base_Class - clicking on delete customer link
+[INFO ] 2020-05-07 12:27:21.388 [main] Base_Class - Entering on delete customer ID
+[INFO ] 2020-05-07 12:27:21.518 [main] Base_Class - clicking on Submit button
+[INFO ] 2020-05-07 12:27:21.676 [main] Base_Class - handling the alert

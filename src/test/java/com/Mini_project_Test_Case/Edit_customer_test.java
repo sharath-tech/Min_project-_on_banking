@@ -1,8 +1,11 @@
 package com.Mini_project_Test_Case;
 
 
-import java.util.concurrent.TimeUnit;
 
+
+import static org.testng.Assert.assertTrue;
+
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.Mini_Project.Page_Object.Edit_Customer;
@@ -29,7 +32,7 @@ public class Edit_customer_test extends Base_Class {
 		
 		
 		Edit_Customer edit_c=new Edit_Customer(driver);
-		System.out.println("uasygdihucjv");
+	
 		
 		logger.info("Clicking on login");
 		edit_c.edit_Customer();
@@ -48,6 +51,13 @@ public class Edit_customer_test extends Base_Class {
 		
 		edit_c.sub_edit();
 		
+	boolean heading=driver.getPageSource().contains("Customer details updated Successfully!!!");
+		if(heading==true) {
+			Assert.assertTrue(true);
+		}
+		else {
+			Assert.assertTrue(false);
+		}
 		
 		
 		
